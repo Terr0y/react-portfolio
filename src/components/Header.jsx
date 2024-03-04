@@ -1,12 +1,15 @@
-import React from 'react';
-import { NavLink } from 'react-router-dom';
+import React from "react";
+import { NavLink } from "react-router-dom";
 
 const Header = () => {
   return (
-    <nav className="navbar navbar-expand-lg" style={{ backgroundColor: 'rgb(224, 170, 68)' }}>
+    <nav
+      className="navbar navbar-expand-lg"
+      style={{ backgroundColor: "rgb(224, 170, 68)" }}
+    >
       <div className="container d-flex justify-content-between align-items-center">
         <NavLink className="navbar-brand" to="/">
-          {/* Replace 'path_to_logo' with the actual path to your logo image */}
+          {/* insert logo image */}
           <img src="./images/Logo.PNG" alt="Your Logo" height="140" />
         </NavLink>
         <button
@@ -23,19 +26,19 @@ const Header = () => {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
-              <NavLink className="nav-link" to="/">Home</NavLink>
+              <NavLink className="nav-link" to="/">
+                Home
+              </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link" to="/projects">Work</NavLink>
+              <NavLink className="nav-link" to="/projects">
+                Projects
+              </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link" to="/skills">Skills</NavLink>
-            </li>
-            <li className="nav-item">
-              <NavLink className="nav-link" to="/about">About me</NavLink>
-            </li>
-            <li className="nav-item">
-              <NavLink className="nav-link" to="/contact">Contact</NavLink>
+              <NavLink className="nav-link" to="/contact">
+                Contact
+              </NavLink>
             </li>
           </ul>
         </div>
