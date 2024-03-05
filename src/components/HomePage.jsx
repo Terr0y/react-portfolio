@@ -16,7 +16,7 @@ const HomePage = () => {
             Developing. Check me out on Linkedin
           </p>
           <a
-            href="https://www.linkedin.com/in/yourlinkedinprofile"
+            href="https://uk.linkedin.com/in/ola-terry-8b2011a2/"
             className="btn btn-primary"
             target="_blank"
             rel="noopener noreferrer"
@@ -28,7 +28,7 @@ const HomePage = () => {
       <Carousel /> {/* This will be your image carousel component */}
       {/* Additional content here */}
       <section className="container">
-        <section id="skills" class="col-12">
+        <section id="skills" className="col-12">
           <div className="card text-center rounded-4">
             <h2 className="mb-4">Skills</h2>
             <p>
