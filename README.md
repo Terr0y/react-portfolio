@@ -35,14 +35,38 @@ This React portfolio has been crafted with a mobile-first approach, ensuring a s
 
 ## Setup
 
-To get a local copy up and running, follow these simple steps:
+- To get setup user need to install NPM packages
+- User must also install React
 
-1. Clone the repo
+## Features
+
+- Dynamic rendering of projects through React components.
+- Navigation between pages using React Router.
+- Access to my GitHub, LinkedIn, and contact details.
 
 
+## Components
+
+- **App:** The root component that wraps all other components.
+- **Header:** A consistent navigation bar displayed across all pages.
+- **Home Page:** A welcome page with my personal greeting, photo, and brand statement.
+- **Projects Page:** Dynamically renders Project components from JSON data.
+- **Project:** Reusable component displaying my project details.
+- **Contact Page:** Contains links to my profiles and CV and also email to reach out to me.
+
+## Contact
 
 
+Should you wish to reach out for collaboration or inquiries, please find my contact details below:
 
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
+- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
+- **CV:** [Download CV (PDF format)](url-to-your-cv.pdf)
+
+## Acknowledgments
+
+A special thank you to all who have provided guidance and feedback throughout the development process.
 
 # React + Vite
 
