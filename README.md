@@ -56,14 +56,14 @@ This React portfolio has been crafted with a mobile-first approach, ensuring a s
 
 ## Contact
 
+
 Should you wish to reach out for collaboration or inquiries, please find my contact details below:
 
-- **Email:** [your-email@example.com](olaterry208@yahoo.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://uk.linkedin.com/in/ola-terry-8b2011a2/)
-- **GitHub:** [Your GitHub Profile](https://github.com/Terr0y)
-- **CV:** [Download CV (PDF format)](./cv/ola_terry_cv_2024.pdf)
+- **Email:** [olaterry208@yahoo.com]
+- **LinkedIn:** [https://uk.linkedin.com/in/ola-terry-8b2011a2/]
+- **GitHub:** [https://github.com/Terr0y]
+- **CV:** [./cv/ola_terry_cv_2024.pdf)]
 
 ## Acknowledgments
 
 A special thank you to all who have provided guidance and feedback throughout the development process.
-
