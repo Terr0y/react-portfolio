@@ -44,6 +44,11 @@ This React portfolio has been crafted with a mobile-first approach, ensuring a s
 - Navigation between pages using React Router.
 - Access to my GitHub, LinkedIn, and contact details.
 
+## Application Screenshot
+
+![./images/app.PNG]
+
+
 
 ## Components
 
