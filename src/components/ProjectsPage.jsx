@@ -21,12 +21,12 @@ const projectData = [
     GithubUrl: "https://github.com/Terr0y/Weather_Forecast" 
   },
   {
-    title: "Weather Forecast",
+    title: "Fare-Forecast-App",
     description:
-      "Users can search for any city to get detailed weather data such as temperature, humidity, wind speed, and more.",
-    imageUrl: "./images/weather.dashboard.png",
-    projectUrl: "https://terr0y.github.io/Weather_Forecast/", 
-    GithubUrl: "https://github.com/Terr0y/Weather_Forecast" 
+      "Users can search for any city to get detailed weather data such as temperature, humidity, wind speed, and more.User can also input a location of origin and destination and dates of travel to provide information about the places they wanted to travel to and how to get there plus they can also search for currency at destination of travel.",
+    imageUrl: "./images/fare.PNG",
+    projectUrl: "https://sidm97.github.io/Fare-Forecast-App/", 
+    GithubUrl: "https://github.com/sidm97/Fare-Forecast-App?tab=readme-ov-file" 
   },
   
   
