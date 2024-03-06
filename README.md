@@ -56,23 +56,14 @@ This React portfolio has been crafted with a mobile-first approach, ensuring a s
 
 ## Contact
 
-
 Should you wish to reach out for collaboration or inquiries, please find my contact details below:
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
-- **CV:** [Download CV (PDF format)](url-to-your-cv.pdf)
+- **Email:** [your-email@example.com](olaterry208@yahoo.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://uk.linkedin.com/in/ola-terry-8b2011a2/)
+- **GitHub:** [Your GitHub Profile](https://github.com/Terr0y)
+- **CV:** [Download CV (PDF format)](./cv/ola_terry_cv_2024.pdf)
 
 ## Acknowledgments
 
 A special thank you to all who have provided guidance and feedback throughout the development process.
 
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
