@@ -24,8 +24,8 @@ This React portfolio has been crafted with a mobile-first approach, ensuring a s
 - Bootstrap for responsive design
 - HTML
 - CSS
-- 
-- 
+- Node.js
+- JavaScript
 
 ## Design Philosophy
 
