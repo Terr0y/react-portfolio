@@ -62,7 +62,7 @@ Should you wish to reach out for collaboration or inquiries, please find my cont
 - **Email:** [olaterry208@yahoo.com]
 - **LinkedIn:** [https://uk.linkedin.com/in/ola-terry-8b2011a2/]
 - **GitHub:** [https://github.com/Terr0y]
-- **CV:** [./cv/ola_terry_cv_2024.pdf)]
+- **CV:**[Ola Terry CV](./cv/ola_terry_cv_2024.pdf)
 
 ## Acknowledgments
 

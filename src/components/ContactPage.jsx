@@ -22,7 +22,7 @@ const ContactPage = () => {
             </div>
           </div>
         </div>
-        <div className="col-md-12">
+        <div className="col-md-6">
           <div className="card">
             <div className="card-body">
               <i className="fa fa-file-pdf-o"></i>
@@ -33,6 +33,17 @@ const ContactPage = () => {
         </div>
       </div>
     </div>
+    <div className="col-md-6">
+          <div className="card">
+            <div className="card-body">
+              <i className="fa fa-github"></i>
+              <h4 className="text-uppercase">GitHub</h4>{/* GitHub Section */}
+              <a href="https://github.com/Terr0y" target="_blank" rel="noopener noreferrer" className="btn btn-dark">
+                Visit GitHub
+              </a>
+            </div>
+          </div>
+        </div>
   </div>
 </div>
   );
