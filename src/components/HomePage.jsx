@@ -1,7 +1,6 @@
 import React from "react";
 import Carousel from "./Carousel"; 
 import profilepic from "../images/profile_pic.png";
-import "./HomePage.css"; // Import the CSS file here
 const HomePage = () => {
   return (
     <div>

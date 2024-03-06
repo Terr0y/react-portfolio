@@ -20,6 +20,15 @@ const projectData = [
     projectUrl: "https://terr0y.github.io/Weather_Forecast/", 
     GithubUrl: "https://github.com/Terr0y/Weather_Forecast" 
   },
+  {
+    title: "Weather Forecast",
+    description:
+      "Users can search for any city to get detailed weather data such as temperature, humidity, wind speed, and more.",
+    imageUrl: "./images/weather.dashboard.png",
+    projectUrl: "https://terr0y.github.io/Weather_Forecast/", 
+    GithubUrl: "https://github.com/Terr0y/Weather_Forecast" 
+  },
+  
   
 ];
 

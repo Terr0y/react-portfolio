@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <nav
       className="navbar navbar-expand-lg"
-      style={{ backgroundColor: "rgb(224, 170, 68)" }}
+      style={{ backgroundColor: "rgb(224, 170, 68)", }}
     >
       <div className="container d-flex justify-content-between align-items-center">
         <NavLink className="navbar-brand" to="/">
