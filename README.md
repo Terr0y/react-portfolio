@@ -46,7 +46,7 @@ This React portfolio has been crafted with a mobile-first approach, ensuring a s
 
 ## Application Screenshot
 
- (![Application Screenshott](<./images/app.PNG>))
+ ![Application Screenshott](images/app.PNG)
 
 This screenshot provides a visual overview of the application's user interface.
 
