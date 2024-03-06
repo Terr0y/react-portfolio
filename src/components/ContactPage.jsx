@@ -22,8 +22,19 @@ const ContactPage = () => {
             </div>
           </div>
         </div>
+        <div className="col-md-12">
+          <div className="card">
+            <div className="card-body">
+              <i className="fa fa-file-pdf-o"></i>
+              <h4 className="text-uppercase">CV</h4>
+              <a href="./cv/ola_terry_cv_2024.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-primary">
+                View CV
+              </a>
+        </div>
       </div>
     </div>
+  </div>
+</div>
   );
 };
 
