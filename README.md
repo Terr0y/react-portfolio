@@ -46,7 +46,7 @@ This React portfolio has been crafted with a mobile-first approach, ensuring a s
 
 ## Application Screenshot
 
-![./images/app.PNG]
+![./images/app.PNG](./images/app.PNG)
 
 
 
