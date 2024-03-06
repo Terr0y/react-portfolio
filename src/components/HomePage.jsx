@@ -1,19 +1,16 @@
 import React from "react";
-import Carousel from "./Carousel"; // You will need to create this component
+import Carousel from "./Carousel"; 
 import profilepic from "../images/profile_pic.png";
+import "./HomePage.css"; // Import the CSS file here
 const HomePage = () => {
   return (
     <div>
       <section id="hero" className="jumbotron text-center mb-4">
         <div className="container">
-          {/* Replace 'path_to_profile_pic' with the actual path to your profile image */}
-          <img src={profilepic} alt="Your Profile" className="rounded-circle" />
+                <img src={profilepic} alt="Your Profile" className="rounded-circle" />
           <h1 className="display-2">Ola Terry</h1>
           <p className="lead">
-            I'm a Fiber Specialist Engineer deeply involved in the telecom
-            industry, ensuring smooth connectivity and driving innovation.
-            Presently, I'm trying to develop my skills in Front-End-Web
-            Developing. Check me out on Linkedin
+          With a robust background in telecommunications as a Fiber Specialist Engineer, I have honed the art of connectivity and innovation within the tech industry. Currently, I am transitioning my skill set to encompass front-end web development, where I blend creative design with technical proficiency to build intuitive user experiences. For a closer look at my professional journey and to explore collaborative opportunities, visit my LinkedIn profile.
           </p>
           <a
             href="https://uk.linkedin.com/in/ola-terry-8b2011a2/"
@@ -25,9 +22,8 @@ const HomePage = () => {
           </a>
         </div>
       </section>
-      <Carousel /> {/* This will be your image carousel component */}
-      {/* Additional content here */}
-      <section className="container">
+      <Carousel /> {/* add carousel component */}
+            <section className="container">
         <section id="skills" className="col-12">
           <div className="card text-center rounded-4">
             <h2 className="mb-4">Skills</h2>

@@ -11,3 +11,12 @@
   border: 5px solid gray;
   box-shadow: 5px 10px #888888;
 }
+
+/* App.css or HomePage.css */
+.card h2 {
+  text-align: center;
+}
+
+.card {
+  padding: 5px; /* add card padding value */
+}

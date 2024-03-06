@@ -26,7 +26,7 @@ const projectData = [
 const ProjectsPage = () => {
   return (
     <div>
-      <h2 className="text-center">Projects</h2>
+      <h2 className="text-center" style={{ marginTop: '30px' }}>Projects</h2>
       <div className="container mt-2">
         <div className="row justify-content-center">
           {projectData.map((project, index) => (
