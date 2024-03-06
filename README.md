@@ -46,8 +46,9 @@ This React portfolio has been crafted with a mobile-first approach, ensuring a s
 
 ## Application Screenshot
 
-![./images/app.PNG](./images/app.PNG)
+ (![Application Screenshott](<./images/app.PNG>))
 
+This screenshot provides a visual overview of the application's user interface.
 
 
 ## Components
@@ -72,3 +73,8 @@ Should you wish to reach out for collaboration or inquiries, please find my cont
 ## Acknowledgments
 
 A special thank you to all who have provided guidance and feedback throughout the development process.
+
+## Deployed URL
+
+https://zippy-chebakia-846ff8.netlify.app/#/
+
